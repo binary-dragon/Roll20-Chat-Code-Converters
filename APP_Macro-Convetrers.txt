@@ -1,0 +1,6 @@
+?{Installed Apps|
+Binary Converter,!binaryhelp|
+Hex converter,!hexhelp|
+Morse converter,!morsehelp}
+
+//copy paste the above text into a macro after installing the Converter scripts. Enabling this as a token action will let your players convert on the fly. All with one button rather than three.
