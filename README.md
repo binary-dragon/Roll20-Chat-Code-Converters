@@ -71,3 +71,5 @@ A set of  light Roll20 Scripts for in chat binary/hex/morse code to text convers
 ## -- Keeping it Tidy -- App Menu Macro.  
 Install individually or as a suite. Use the Macro script to keep them together in a neat little pull down menu. Make that a token action and it will always be availible to your players.   
 Feel free to download and use. You will need Roll20 Api (Roll20 Pro etc) access to run these scripts.  
+
+*“These Code converter scripts and macro are an unofficial content provided under the Homebrew Content Policy of R. Talsorian Games and is not approved or endorsed by RTG. This content references materials that are the property of R. Talsorian Games and its licensees.”*
