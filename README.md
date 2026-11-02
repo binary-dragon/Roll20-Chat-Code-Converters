@@ -1,6 +1,9 @@
 # Roll20- Code Converters - Master Read Me
 A set of  light Roll20 Scripts for in chat binary/hex/morse code to text conversion. Styled for Cyberpunk Red and Modern TTRPGs
 
+<p align="center"><img width="1920" height="1080" alt="Converter-Thumbnail-v1" src="https://github.com/user-attachments/assets/ab46132b-1f22-4d4c-9a10-498e853f6457" /></p>  
+
+This includes three scripts and a macro.
 # -- Binary Converter
 ## // Binary Converter - For roll20 chat v1.6
 // ----------------------------------------  
@@ -21,6 +24,7 @@ A set of  light Roll20 Scripts for in chat binary/hex/morse code to text convers
 // `!xtbw` [Text] - Converts Text to Binary, whispers result to user.  
 // `!btxw` [Binary] - Converts Binary to text, whispers result to user.  
 
+<p align="center"><img width="600" height="400" alt="Binary Example" src="https://github.com/user-attachments/assets/42381a41-f68a-48d6-ada0-24f52a88c337" /></p>  
   
 # -- Hex Converter
 ## // Hex Converter - For roll20 chat v1.6  
@@ -43,6 +47,8 @@ A set of  light Roll20 Scripts for in chat binary/hex/morse code to text convers
 // `!xthw` [Text] - Converts Text to Binary, whispers result to user.  
 // `!htxw` [Hex] - Converts Binary to text, whispers result to user.  
 
+<p align="center"><img width="600" height="400" alt="Hex Example" src="https://github.com/user-attachments/assets/d124c17f-e15b-43c5-b235-b704093e26eb" /></p>
+
 # -- Morse code Converter
 ## // Morse Converter - For roll20 chat v1.4  
 // ----------------------------------------
@@ -57,6 +63,9 @@ A set of  light Roll20 Scripts for in chat binary/hex/morse code to text convers
 // -------------------------------------------------------------------------------------------------  
 // To start using this in roll20, install as a mod script (this will require API access/Roll20 subscription)  
 // Once installed, type `!Morsehelp` in chat to get instuctions.  
+
+<p align="center"><img width="600" height="400" alt="Morse example" src="https://github.com/user-attachments/assets/9e4586ba-e370-462f-a8ec-565ab23ac2e7" /></p>?
+
 
 *This converter has less characters it can convert. SInce the morse is manually added to the code. If there are other characters you need lmk and I'll add them. If I can.*   
   
